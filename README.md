@@ -20,7 +20,7 @@
   </ul><br>
 
   
-   <b>Design and implementation of a music industry system<b>  
+   <b>Design and implementation of a music industry system</b>  
   - <a href="https://www.midnytupdates.com" target="_blank">https://www.midnytupdates.com</a>  
   <ul>
     <li>Tech Used: HTML, CSS, JavaScript, PHP</li>

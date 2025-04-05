@@ -17,13 +17,18 @@
     <li>Created a music industry website with content management features</li>
   </ul><br>
   
-<b>Re-Design and Implementation of STU International Journal of Technology for Sunyani Technical University Ghana <b> 
+<b>Re-Design and Implementation of STU International Journal of Technology for Sunyani Technical University Ghana </b> 
   - <a href="https://stujournal.org" target="_blank">https://stujournal.org</a>  
   <ul>
     <li>Tech Used: HTML, CSS, PHP, WordPress</li>
     <li>Re-designed and implemented the journal’s website</li>
   </ul><br>
-
+<b>Design and implementation of the Human Resource system for Catholic University Ghana  </b>
+  - (Locally hosted on the school’s server)  <a href="https://stujournal.org" target="_blank">https://stujournal.org</a> 
+  <ul>
+    <li>Tech Used: HTML, CSS, PHP, MySQL</li>
+    <li>Created and implemented a comprehensive HR system for the university</li>
+  </ul><br>
 
   
 - <b>NSS MENA Company Website</b>

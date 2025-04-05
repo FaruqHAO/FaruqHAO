@@ -8,7 +8,24 @@
     <li>Developed and deployed the official website of NSS MENA</li>
     <li>Created responsive layout and interactive elements</li>
     <li>Integrated contact form with backend handling</li>
-  </ul>
+  </ul><br>
+  
+   <b>Design and implementation of a music industry system<b>  
+  - <a href="https://www.midnytupdates.com" target="_blank">https://www.midnytupdates.com</a>  
+  <ul>
+    <li>Tech Used: HTML, CSS, JavaScript, PHP</li>
+    <li>Created a music industry website with content management features</li>
+  </ul><br>
+  
+<b>Re-Design and Implementation of STU International Journal of Technology for Sunyani Technical University Ghana <b> 
+  - <a href="https://stujournal.org" target="_blank">https://stujournal.org</a>  
+  <ul>
+    <li>Tech Used: HTML, CSS, PHP, WordPress</li>
+    <li>Re-designed and implemented the journal’s website</li>
+  </ul><br>
+
+
+  
 - <b>NSS MENA Company Website</b>
   - (https://nssmena.com)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>

@@ -1,9 +1,16 @@
 <h1>Hi, I'm Faruq! <br/><a href="https://github.com/FaruqHAO">Software Developer|FullStack Engineer</a>, <a href="https://www.linkedin.com/in/odetola-faruq-595b26194/">Linkdin</a>, </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+<b>NSS MENA Company Website</b>  
+  - <a href="https://nssmena.com" target="_blank">https://nssmena.com</a>  
+  <ul>
+    <li>Tech Used: HTML, CSS, JS, PHP</li>
+    <li>Developed and deployed the official website of NSS MENA</li>
+    <li>Created responsive layout and interactive elements</li>
+    <li>Integrated contact form with backend handling</li>
+  </ul>
+- <b>NSS MENA Company Website</b>
+  - (https://nssmena.com)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>

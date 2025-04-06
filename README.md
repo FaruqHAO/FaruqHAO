@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <b>NSS MENA Company Website</b>  
-  - <a href="https://nssmena.com" target="_blank">https://nssmena.com</a>  
+  - <a href="https://nssmena.com" target="_blank">nssmena</a>  
   <ul>
     <li>Tech Used: HTML, CSS, JS, PHP</li>
     <li>Developed and deployed the official website of NSS MENA</li>
@@ -11,7 +11,7 @@
   </ul><br>
 
   <b>Online Courses System</b>  
-  - <a href="https://github.com/FaruqHAO/CUG_ONLINE_COURSES" target="_blank">https://github.com/FaruqHAO/CUG_ONLINE_COURSES</a>  
+  - <a href="https://github.com/FaruqHAO/CUG_ONLINE_COURSES" target="_blank">ONLINE_COURSES</a>  
   <ul>
     <li>Tech Used: .NET Blazor, HTML, CSS, JavaScript, PostgreSQL</li>
     <li>Designed and developed an online courses system for Catholic University of Ghana (CUG)</li>
@@ -95,15 +95,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[<img align="left" alt="FaruqHAO | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="FaruqHAO | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="FaruqHAO | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="FaruqHAO | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <!--
 **FaruqHAO/FaruqHAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

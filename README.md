@@ -1,4 +1,5 @@
-<h1>Hi, I'm Faruq! <br/><a href="https://faruqhao.netlify.app/">Software Developer|FullStack Engineer</a>, <a href="https://www.linkedin.com/in/odetola-faruq-595b26194/">Linkdin</a>, </h1>
+<h1>Hi, I'm Faruq! <br/><a href="https://faruqhao.netlify.app/">Software Developer|FullStack Engineer</a> <br>
+  <a href="https://www.linkedin.com/in/odetola-faruq-595b26194/">Linkdin</a>, </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <b>NSS MENA Company Website</b>  

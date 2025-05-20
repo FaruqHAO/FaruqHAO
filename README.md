@@ -10,6 +10,30 @@
     <li>Created responsive layout and interactive elements</li>
     <li>Integrated contact form with backend handling</li>
   </ul><br>
+  <b>Secure Transaction Gateway</b>
+
+<ul> <li>Tech Used: .NET 8, PostgreSQL, JWT</li> <li>Built a secure banking system integration with full authentication & authorization</li> <li>Implemented JWT for role-based access control</li> <li>Integrated PostgreSQL for data persistence</li> </ul><br>
+<b>SocialSphere - Social Networking & Event Booking Platform</b>
+
+<ul> <li>Tech Used: Blazor Server, MudBlazor, PostgreSQL</li> <li>Features: Event listings, ticketing, QR codes, Google Maps, and waitlist management</li> <li>Custom roles for users and organizers</li> <li>Integrated payment gateway and refund policies</li> </ul><br>
+<b>ChatApp</b>
+
+<ul> <li>Tech Used: Kotlin Compose, Firebase, ZegoCloud</li> <li>Real-time messaging and video calling features</li> <li>Secure chat backend using Firebase Firestore & Authentication</li> <li>ZegoCloud integration for seamless communication</li> </ul><br>
+<b>LivestreamingApp</b>
+
+<ul> <li>Tech Used: Kotlin, ZegoCloud, Firebase</li> <li>Live broadcast support for hosts and real-time interaction for viewers</li> <li>User authentication, profile management, and cloud video handling</li> </ul><br>
+<b>Inventory Management System</b>
+
+<ul> <li>Tech Used: C#, .NET, SQL Server</li> <li>Track stock levels, generate reports, and manage suppliers/customers</li> <li>Role-based access for admins and users</li> </ul><br>
+<b>Authentication and Authorization System</b>
+
+<ul> <li>Tech Used: .NET, Identity, JWT</li> <li>Implemented secure login, registration, and token-based access control</li> </ul><br>
+<b>Students Management System</b>
+
+<ul> <li>Tech Used: Spring Boot, Spring Data JPA, MySQL</li> <li>Managed student records, grading, course enrollments</li> <li>RESTful APIs for admin and student roles</li> </ul><br>
+<b>CUG Online Courses System</b>
+
+<ul> <li>Tech Used: Blazor Server, PostgreSQL</li> <li>Course catalog, student enrollment, and video content streaming</li> </ul><br>
 
   <b>Online Courses System</b>  
   - <a href="https://github.com/FaruqHAO/CUG_ONLINE_COURSES" target="_blank">ONLINE_COURSES</a>  

@@ -1,4 +1,4 @@
-<h1>Hi, I'm Faruq! <br/><a href="https://faruqhao.netlify.app/">Software Developer|FullStack Engineer</a> <br>
+<h1>Hi, I'm Faruq! <br/><a href="https://faruqhao.netlify.app/">FullStack Developer</a> <br>
   <a href="https://www.linkedin.com/in/odetola-faruq-595b26194/">Linkdin</a>,<a href="https://faruqhao.netlify.app/ ">Portfolio</a>, </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>

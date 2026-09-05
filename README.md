@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Faruq Odetola
 
-### 🚀 Full-Stack Developer | .NET Developer | Cloud & Backend Enthusiast
+### 🚀 Full-Stack Developer | AI & Automation | Backend Engineering | Cloud
 
 <p align="left">
   <a href="https://faruqhao.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/odetola-faruq-595b26194/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/FaruqHAO" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-FaruqHAO-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -18,340 +18,201 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** passionate about building secure, scalable, and user-focused applications.
+I'm a **Full-Stack Developer** who works across multiple programming
+languages, frameworks, databases, and technology stacks.
 
-I specialize in developing modern backend systems, web applications, APIs, authentication platforms, real-time communication systems, and database-driven applications.
+I build **web applications, backend systems, APIs, AI-powered solutions,
+automation platforms, data-processing pipelines, mobile applications,
+and cloud-native systems**.
 
-I enjoy turning complex business requirements into **clean, maintainable, and production-ready software**.
+I don't limit myself to a single technology stack. I choose the right
+tools based on the problem, project requirements, scalability,
+performance, and maintainability.
 
-### 🔭 Currently Focused On
+### 💡 What I Work With
 
-- Building scalable **.NET applications**
-- Backend architecture and API development
-- Authentication & Authorization
-- Cloud-native applications
-- Docker & containerization
-- PostgreSQL & MongoDB
-- Microservices and distributed systems
-- OCR and intelligent document processing
-- Cybersecurity and secure software development
+- 💻 Full-Stack Development
+- ⚙️ Backend & API Development
+- 🤖 AI Integration & AI Applications
+- 🔄 Data Automation & Workflow Automation
+- 🪪 OCR & Intelligent Document Processing
+- 📊 Data Processing & Transformation
+- 🔐 Authentication & Authorization
+- 🗄️ Database Architecture & Optimization
+- ☁️ Cloud & Cloud-Native Development
+- 🐳 Docker & Containerization
+- 📱 Mobile Application Development
+- 🔌 Third-Party API Integration
+- 🛡️ Secure Application Development
 
 ---
 
-# 🛠️ Tech Stack
-
-### 💻 Languages
+# 🧑‍💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Frameworks
+---
+
+# ⚙️ Frameworks & Platforms
+
+### Backend
 
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
-### 🗄️ Databases
+### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MudBlazor-594AE2?style=for-the-badge" />
 </p>
 
-### ☁️ DevOps & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-### 📱 Mobile & Real-Time
+### Mobile
 
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/ZEGOCLOUD-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🤖 AI, Data & Automation
 
-## 🪪 Identity Document OCR System
+I build and integrate intelligent systems that automate repetitive
+processes and transform unstructured data into useful information.
 
-An intelligent document-processing platform designed to extract structured information from identity documents.
+### 🧠 AI & Intelligent Systems
 
-### Features
+- AI API integration
+- LLM integration
+- AI-powered applications
+- Intelligent document processing
+- OCR
+- Automated information extraction
+- Document classification
+- AI-assisted workflows
+- Prompt engineering
+- Local / self-hosted AI experimentation
 
-- Identity document image upload
-- OCR processing
-- Document-specific field extraction
-- Review and validation workflow
-- Structured user information storage
-- Docker-based deployment
-- OCR service integration
-- Support for multiple document formats
+### 🔄 Data Automation
 
-### Technology
+- Automated data ingestion
+- Data extraction
+- Data transformation
+- Data validation
+- ETL pipelines
+- API-to-database automation
+- Database synchronization
+- Background processing
+- Scheduled jobs
+- Automated reporting
+- Workflow automation
 
-`React` `ASP.NET Core` `.NET` `Python` `FastAPI` `PaddleOCR` `MongoDB` `Docker`
+### 🪪 OCR & Document Processing
 
-🔗 **Repository:**  
-https://github.com/FaruqHAO/OCRSystem
-
----
-
-## 💳 Secure Transaction Gateway
-
-A secure financial transaction integration platform built with modern authentication and authorization practices.
-
-### Features
-
-- Authentication & Authorization
-- JWT-based security
-- Role-Based Access Control
-- PostgreSQL persistence
-- Secure API architecture
-- Transaction processing
-
-### Technology
-
-`C#` `.NET 8` `ASP.NET Core` `PostgreSQL` `JWT`
-
----
-
-## 🌐 SocialSphere
-
-A social networking and event booking platform designed for users and event organizers.
-
-### Features
-
-- Event creation and management
-- Ticket booking
-- QR code generation
-- Google Maps integration
-- Waitlist management
-- Organizer roles
-- Payment integration
-- Refund management
-
-### Technology
-
-`Blazor Server` `MudBlazor` `PostgreSQL`
+- Identity document OCR
+- Automated field extraction
+- Document classification
+- Data normalization
+- Validation pipelines
+- Human-in-the-loop review
+- Structured data persistence
 
 ---
 
-## 💬 Chat Application
+# 🗄️ Databases
 
-A real-time communication application supporting messaging, voice communication, and video calls.
-
-### Features
-
-- Real-time messaging
-- Voice calls
-- Video calls
-- User authentication
-- Firebase synchronization
-- Real-time communication
-
-### Technology
-
-`Kotlin` `Jetpack Compose` `Firebase` `ZEGOCLOUD`
-
-🔗 **Repository:**  
-https://github.com/FaruqHAO/ChatApp_ZegoCloud
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
 
 ---
 
-## 🎥 Livestreaming Application
+# ☁️ Cloud, DevOps & Infrastructure
 
-A mobile livestreaming platform supporting real-time broadcasting and audience interaction.
-
-### Features
-
-- Live broadcasting
-- Real-time audience interaction
-- Live chat
-- Authentication
-- User profiles
-- Video and audio streaming
-
-### Technology
-
-`Kotlin` `Java` `Firebase` `ZEGOCLOUD`
-
-🔗 **Repository:**  
-https://github.com/FaruqHAO/LivestreamingAppZego
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 ---
 
-## 🎓 Online Courses Platform
+# 🔌 APIs & Integrations
 
-An online learning platform developed for the **Catholic University of Ghana**.
-
-### Features
-
-- Course management
-- Student enrollment
-- Authentication
-- Video content
-- Student management
-- Responsive interface
-
-### Technology
-
-`Blazor` `.NET` `PostgreSQL` `HTML` `CSS` `JavaScript`
-
-🔗 **Repository:**  
-https://github.com/FaruqHAO/CUG_ONLINE_COURSES
-
----
-
-## 📦 Inventory Management System
-
-A business inventory platform for managing products, stock levels, suppliers, and customers.
-
-### Features
-
-- Product management
-- Inventory tracking
-- Stock monitoring
-- Supplier management
-- Customer management
-- Reporting
-- Role-based access
-
-### Technology
-
-`C#` `.NET` `SQL Server`
-
-🔗 **Repository:**  
-https://github.com/FaruqHAO/Inventory_Management_System
-
----
-
-## 🔐 Authentication & Authorization System
-
-A reusable authentication platform implementing secure user management and role-based authorization.
-
-### Features
-
-- User registration
-- Secure login
-- Role-Based Access Control
-- Authentication
-- Authorization
-- User management
-- SQL Server persistence
-
-### Technology
-
-`C#` `.NET` `ASP.NET Core` `Blazor Server` `SQL Server`
-
-🔗 **Repository:**  
-https://github.com/Faruq6041/AuthenticationAndAuthorizationSystem
-
----
-
-## 🎓 Student Management System
-
-A student management platform for managing student records, courses, and grades.
-
-### Features
-
-- Student registration
-- Course enrollment
-- Grade management
-- CRUD operations
 - REST APIs
-- Admin and student roles
-
-### Technology
-
-`Java` `Spring Boot` `Spring Data JPA` `MySQL` `JSP` `Bootstrap`
-
-🔗 **Repository:**  
-https://github.com/FaruqHAO/Students_Management_System-Spring
-
----
-
-# 🌍 Professional Projects
-
-### 🏢 NSS MENA
-
-Official company website developed using:
-
-`HTML` `CSS` `JavaScript` `PHP`
-
-🔗 https://nssmena.com
+- JWT Authentication
+- OAuth
+- Third-party API integration
+- Payment APIs
+- Google Maps
+- Firebase APIs
+- ZEGOCLOUD
+- AI APIs
+- Database APIs
+- Webhooks
+- Microservice communication
 
 ---
 
-### 🎵 Music Industry Platform
+# 🏗️ Development Approach
 
-A music-focused content management platform.
-
-`HTML` `CSS` `JavaScript` `PHP`
-
-🔗 https://www.midnytupdates.com
-
----
-
-### 📚 Scholar Indexing
-
-A global information analytics and open-access indexing platform.
-
-`Laravel` `MySQL` `Paystack API`
-
-🔗 https://scholarindexing.com/
-
----
-
-### 📖 STU International Journal
-
-Redesign and implementation of the international journal website for Sunyani Technical University.
-
-`HTML` `CSS` `PHP` `WordPress`
-
-🔗 https://stujournal.org
-
----
-
-# 🏗️ Software Engineering Interests
-
-I'm particularly interested in:
+I work across different technology stacks depending on the requirements
+of the project.
 
 ```text
-Backend Architecture
-        ↓
-Clean Architecture
-        ↓
-RESTful APIs
-        ↓
-Authentication & Authorization
-        ↓
-Database Design
-        ↓
-Distributed Systems
-        ↓
-Cloud & DevOps
-        ↓
-Cybersecurity
+                    ┌──────────────────┐
+                    │   Web / Mobile   │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │   REST / APIs    │
+                    └────────┬─────────┘
+                             │
+             ┌───────────────┼───────────────┐
+             ▼               ▼               ▼
+        ┌─────────┐     ┌─────────┐     ┌─────────┐
+        │  .NET   │     │ Python  │     │  Java   │
+        └────┬────┘     └────┬────┘     └────┬────┘
+             │               │               │
+             └───────────────┼───────────────┘
+                             ▼
+                    ┌──────────────────┐
+                    │ AI / Automation  │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │ Data Processing  │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │    Databases     │
+                    └──────────────────┘

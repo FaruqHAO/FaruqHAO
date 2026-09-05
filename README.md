@@ -1,141 +1,357 @@
-<h1>Hi, I'm Faruq! <br/><a href="https://faruqhao.netlify.app/">FullStack Developer</a> <br>
-  <a href="https://www.linkedin.com/in/odetola-faruq-595b26194/">Linkdin_Profile</a>,<a href="https://faruqhao.netlify.app/ ">Portfolio</a> </h1>
+# 👋 Hi, I'm Faruq Odetola
 
-<h2>👨‍💻 Software Development Projects:</h2>
-<b>NSS MENA Company Website</b>  
-  - <a href="https://nssmena.com" target="_blank">nssmena</a>  
-  <ul>
-    <li>Tech Used: HTML, CSS, JS, PHP</li>
-    <li>Developed and deployed the official website of NSS MENA</li>
-    <li>Created responsive layout and interactive elements</li>
-    <li>Integrated contact form with backend handling</li>
-  </ul><br>
-  <b>Secure Transaction Gateway</b>
+### 🚀 Full-Stack Developer | .NET Developer | Cloud & Backend Enthusiast
 
-<ul> <li>Tech Used: .NET 8, PostgreSQL, JWT</li> <li>Built a secure banking system integration with full authentication & authorization</li> <li>Implemented JWT for role-based access control</li> <li>Integrated PostgreSQL for data persistence</li> </ul><br>
-<b>SocialSphere - Social Networking & Event Booking Platform</b>
+<p align="left">
+  <a href="https://faruqhao.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/odetola-faruq-595b26194/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/FaruqHAO" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<ul> <li>Tech Used: Blazor Server, MudBlazor, PostgreSQL</li> <li>Features: Event listings, ticketing, QR codes, Google Maps, and waitlist management</li> <li>Custom roles for users and organizers</li> <li>Integrated payment gateway and refund policies</li> </ul><br>
-<b>ChatApp</b>
+---
 
-<ul> <li>Tech Used: Kotlin Compose, Firebase, ZegoCloud</li> <li>Real-time messaging and video calling features</li> <li>Secure chat backend using Firebase Firestore & Authentication</li> <li>ZegoCloud integration for seamless communication</li> </ul><br>
-<b>LivestreamingApp</b>
+## 👨‍💻 About Me
 
-<ul> <li>Tech Used: Kotlin, ZegoCloud, Firebase</li> <li>Live broadcast support for hosts and real-time interaction for viewers</li> <li>User authentication, profile management, and cloud video handling</li> </ul><br>
-<b>Inventory Management System</b>
+I'm a **Full-Stack Developer** passionate about building secure, scalable, and user-focused applications.
 
-<ul> <li>Tech Used: C#, .NET, SQL Server</li> <li>Track stock levels, generate reports, and manage suppliers/customers</li> <li>Role-based access for admins and users</li> </ul><br>
-<b>Authentication and Authorization System</b>
+I specialize in developing modern backend systems, web applications, APIs, authentication platforms, real-time communication systems, and database-driven applications.
 
-<ul> <li>Tech Used: .NET, Identity, JWT</li> <li>Implemented secure login, registration, and token-based access control</li> </ul><br>
-<b>Students Management System</b>
+I enjoy turning complex business requirements into **clean, maintainable, and production-ready software**.
 
-<ul> <li>Tech Used: Spring Boot, Spring Data JPA, MySQL</li> <li>Managed student records, grading, course enrollments</li> <li>RESTful APIs for admin and student roles</li> </ul><br>
-<b>CUG Online Courses System</b>
+### 🔭 Currently Focused On
 
-<ul> <li>Tech Used: Blazor Server, PostgreSQL</li> <li>Course catalog, student enrollment, and video content streaming</li> </ul><br>
+- Building scalable **.NET applications**
+- Backend architecture and API development
+- Authentication & Authorization
+- Cloud-native applications
+- Docker & containerization
+- PostgreSQL & MongoDB
+- Microservices and distributed systems
+- OCR and intelligent document processing
+- Cybersecurity and secure software development
 
-  <b>Online Courses System</b>  
-  - <a href="https://github.com/FaruqHAO/CUG_ONLINE_COURSES" target="_blank">ONLINE_COURSES</a>  
-  <ul>
-    <li>Tech Used: .NET Blazor, HTML, CSS, JavaScript, PostgreSQL</li>
-    <li>Designed and developed an online courses system for Catholic University of Ghana (CUG)</li>
-    <li>Implemented course management, student enrollment, and user authentication</li>
-    <li>Created a dynamic and responsive website with a Blazor front-end and PostgreSQL-driven backend</li>
-  </ul><br>
+---
 
-  
-   <b>Design and implementation of a music industry system</b>  
-  - <a href="https://www.midnytupdates.com" target="_blank">https://www.midnytupdates.com</a>  
-  <ul>
-    <li>Tech Used: HTML, CSS, JavaScript, PHP</li>
-    <li>Created a music industry website with content management features</li>
-  </ul><br>
-  <b>Design and implementation of a global information analytics system that helps institutions and researchers advance open science and improve performance for the benefit of humanity.</b>  
-  - <a href="https://scholarindexing.com/" target="_blank">https://scholarindexing.com/</a>  
-  <ul>
-    <li>Tech Used: Laravel,Paystack Payment APi, MySQL</li>
-    <li>Developed a global information analytics system for open-access indexing</li>
-  </ul><br>
-  <b>Chat Application</b>  
-  - <a href="https://github.com/FaruqHAO/ChatApp_ZegoCloud" target="_blank">https://github.com/FaruqHAO/ChatApp_ZegoCloud</a>  
-  <ul>
-    <li>Tech Used: Kotlin Compose, Java, ZegoCloud, Firebase</li>
-    <li>Developed a real-time chat application using ZegoCloud for communication services</li>
-    <li>Integrated messaging, video, and voice chat features for a seamless experience</li>
-    <li>Implemented dynamic and responsive front-end using Kotlin Compose</li>
-    <li>Utilized Firebase for user authentication and real-time data synchronization</li>
-  </ul><br>
+# 🛠️ Tech Stack
 
-<b>Re-Design and Implementation of STU International Journal of Technology for Sunyani Technical University Ghana </b> 
-  - <a href="https://stujournal.org" target="_blank">https://stujournal.org</a>  
-  <ul>
-    <li>Tech Used: HTML, CSS, PHP, WordPress</li>
-    <li>Re-designed and implemented the journal’s website</li>
-  </ul><br>
-<b>Design and implementation of the Human Resource system for Catholic University Ghana  </b>
-  - (Locally hosted on the school’s server)  <a href="https://stujournal.org" target="_blank">https://stujournal.org</a> 
-  <ul>
-    <li>Tech Used: HTML, CSS, PHP, MySQL</li>
-    <li>Created and implemented a comprehensive HR system for the university</li>
-  </ul><br>
-<b>Inventory Management System</b>  
-  - <a href="https://github.com/FaruqHAO/Inventory_Management_System" target="_blank">https://github.com/FaruqHAO/Inventory_Management_System</a>  
-  <ul>
-    <li>Tech Used: HTML,Javascript,Java,SQL Server</li>
-    <li>Developed a comprehensive inventory management system for efficient tracking of stock and products</li>
-    <li>Implemented features such as inventory tracking, product management, and stock level monitoring</li>
-    <li>Utilized SQL Server for database management and optimized queries for better performance</li>
-    <li>Designed a user-friendly interface with robust backend logic for seamless operations</li>
-  </ul><br>
-  <b>Authentication and Authorization System</b>  
-  - <a href="https://github.com/Faruq6041/AuthenticationAndAuthorizationSystem" target="_blank">https://github.com/Faruq6041/AuthenticationAndAuthorizationSystem</a>  
-  <ul>
-    <li>Tech Used: C#, .NET,ASP Core,Blazer Server, SQL Server</li>
-    <li>Developed a comprehensive authentication and authorization system</li>
-    <li>Implemented secure login, registration, and role-based access control (RBAC)</li>
-    <li>Utilized SQL Server for user data management and authentication</li>
-    <li>Designed with a focus on security, scalability, and user-friendly experience</li>
-  </ul><br>
-  <b>Livestreaming App </b>  
-  - <a href="https://github.com/FaruqHAO/LivestreamingAppZego" target="_blank">https://github.com/FaruqHAO/LivestreamingAppZego</a>  
-  <ul>
-    <li>Tech Used: Kotlin, Java, ZegoCloud, Firebase</li>
-    <li>Developed a real-time livestreaming application using ZegoCloud for video and audio streaming</li>
-    <li>Integrated live chat features to interact with the audience during livestreams</li>
-    <li>Utilized Firebase for user authentication and real-time data synchronization</li>
-    <li>Optimized app performance to ensure smooth and reliable streaming</li>
-  </ul><br>
-<b>Students Management System</b>  
-  - <a href="https://github.com/FaruqHAO/Students_Management_System-Spring" target="_blank">https://github.com/FaruqHAO/Students_Management_System-Spring</a>  
-  <ul>
-    <li>Tech Used: Java, Spring Boot, Spring Data JPA, MySQL, JSP, Bootstrap, Maven</li>
-    <li>Developed a student management system with basic CRUD (Create, Read, Update, Delete) functionality</li>
-    <li>Implemented Spring Boot for building a robust backend API</li>
-    <li>Utilized Spring Data JPA for efficient database interactions and MySQL for data storage</li>
-    <li>Designed a user-friendly interface using JSP and Bootstrap for a responsive experience</li>
-    <li>Used Maven for project management and dependency handling</li>
-  </ul><br>
+### 💻 Languages
 
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
-<h2> 🤳 Connect with me:</h2>
+### ⚙️ Backend & Frameworks
 
-<img align="left" alt="FaruqHAO | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="FaruqHAO | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="FaruqHAO | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="FaruqHAO | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
 
-<!--
-**FaruqHAO/FaruqHAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🗄️ Databases
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☁️ DevOps & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+### 📱 Mobile & Real-Time
+
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/ZEGOCLOUD-000000?style=for-the-badge" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🪪 Identity Document OCR System
+
+An intelligent document-processing platform designed to extract structured information from identity documents.
+
+### Features
+
+- Identity document image upload
+- OCR processing
+- Document-specific field extraction
+- Review and validation workflow
+- Structured user information storage
+- Docker-based deployment
+- OCR service integration
+- Support for multiple document formats
+
+### Technology
+
+`React` `ASP.NET Core` `.NET` `Python` `FastAPI` `PaddleOCR` `MongoDB` `Docker`
+
+🔗 **Repository:**  
+https://github.com/FaruqHAO/OCRSystem
+
+---
+
+## 💳 Secure Transaction Gateway
+
+A secure financial transaction integration platform built with modern authentication and authorization practices.
+
+### Features
+
+- Authentication & Authorization
+- JWT-based security
+- Role-Based Access Control
+- PostgreSQL persistence
+- Secure API architecture
+- Transaction processing
+
+### Technology
+
+`C#` `.NET 8` `ASP.NET Core` `PostgreSQL` `JWT`
+
+---
+
+## 🌐 SocialSphere
+
+A social networking and event booking platform designed for users and event organizers.
+
+### Features
+
+- Event creation and management
+- Ticket booking
+- QR code generation
+- Google Maps integration
+- Waitlist management
+- Organizer roles
+- Payment integration
+- Refund management
+
+### Technology
+
+`Blazor Server` `MudBlazor` `PostgreSQL`
+
+---
+
+## 💬 Chat Application
+
+A real-time communication application supporting messaging, voice communication, and video calls.
+
+### Features
+
+- Real-time messaging
+- Voice calls
+- Video calls
+- User authentication
+- Firebase synchronization
+- Real-time communication
+
+### Technology
+
+`Kotlin` `Jetpack Compose` `Firebase` `ZEGOCLOUD`
+
+🔗 **Repository:**  
+https://github.com/FaruqHAO/ChatApp_ZegoCloud
+
+---
+
+## 🎥 Livestreaming Application
+
+A mobile livestreaming platform supporting real-time broadcasting and audience interaction.
+
+### Features
+
+- Live broadcasting
+- Real-time audience interaction
+- Live chat
+- Authentication
+- User profiles
+- Video and audio streaming
+
+### Technology
+
+`Kotlin` `Java` `Firebase` `ZEGOCLOUD`
+
+🔗 **Repository:**  
+https://github.com/FaruqHAO/LivestreamingAppZego
+
+---
+
+## 🎓 Online Courses Platform
+
+An online learning platform developed for the **Catholic University of Ghana**.
+
+### Features
+
+- Course management
+- Student enrollment
+- Authentication
+- Video content
+- Student management
+- Responsive interface
+
+### Technology
+
+`Blazor` `.NET` `PostgreSQL` `HTML` `CSS` `JavaScript`
+
+🔗 **Repository:**  
+https://github.com/FaruqHAO/CUG_ONLINE_COURSES
+
+---
+
+## 📦 Inventory Management System
+
+A business inventory platform for managing products, stock levels, suppliers, and customers.
+
+### Features
+
+- Product management
+- Inventory tracking
+- Stock monitoring
+- Supplier management
+- Customer management
+- Reporting
+- Role-based access
+
+### Technology
+
+`C#` `.NET` `SQL Server`
+
+🔗 **Repository:**  
+https://github.com/FaruqHAO/Inventory_Management_System
+
+---
+
+## 🔐 Authentication & Authorization System
+
+A reusable authentication platform implementing secure user management and role-based authorization.
+
+### Features
+
+- User registration
+- Secure login
+- Role-Based Access Control
+- Authentication
+- Authorization
+- User management
+- SQL Server persistence
+
+### Technology
+
+`C#` `.NET` `ASP.NET Core` `Blazor Server` `SQL Server`
+
+🔗 **Repository:**  
+https://github.com/Faruq6041/AuthenticationAndAuthorizationSystem
+
+---
+
+## 🎓 Student Management System
+
+A student management platform for managing student records, courses, and grades.
+
+### Features
+
+- Student registration
+- Course enrollment
+- Grade management
+- CRUD operations
+- REST APIs
+- Admin and student roles
+
+### Technology
+
+`Java` `Spring Boot` `Spring Data JPA` `MySQL` `JSP` `Bootstrap`
+
+🔗 **Repository:**  
+https://github.com/FaruqHAO/Students_Management_System-Spring
+
+---
+
+# 🌍 Professional Projects
+
+### 🏢 NSS MENA
+
+Official company website developed using:
+
+`HTML` `CSS` `JavaScript` `PHP`
+
+🔗 https://nssmena.com
+
+---
+
+### 🎵 Music Industry Platform
+
+A music-focused content management platform.
+
+`HTML` `CSS` `JavaScript` `PHP`
+
+🔗 https://www.midnytupdates.com
+
+---
+
+### 📚 Scholar Indexing
+
+A global information analytics and open-access indexing platform.
+
+`Laravel` `MySQL` `Paystack API`
+
+🔗 https://scholarindexing.com/
+
+---
+
+### 📖 STU International Journal
+
+Redesign and implementation of the international journal website for Sunyani Technical University.
+
+`HTML` `CSS` `PHP` `WordPress`
+
+🔗 https://stujournal.org
+
+---
+
+# 🏗️ Software Engineering Interests
+
+I'm particularly interested in:
+
+```text
+Backend Architecture
+        ↓
+Clean Architecture
+        ↓
+RESTful APIs
+        ↓
+Authentication & Authorization
+        ↓
+Database Design
+        ↓
+Distributed Systems
+        ↓
+Cloud & DevOps
+        ↓
+Cybersecurity
